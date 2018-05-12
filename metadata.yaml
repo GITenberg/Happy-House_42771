@@ -1,0 +1,31 @@
+_repo: Happy-House_42771
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutten zum Stolzenberg, Betsey Riddle, Freifrau von
+    birthdate: 1874
+    deathdate: 1957
+    gutenberg_agent_id: '41859'
+    url: http://www.gutenberg.org/2009/agents/41859
+description: ''
+gutenberg_issued: '2013-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Women novelists -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+title: Happy House
+url: http://www.gutenberg.org/ebooks/42771
